@@ -1,0 +1,29 @@
+# Gemini AI Chatbot
+
+A simple AI chatbot built using Python and Google Gemini API in Google Colab.
+
+## Features
+
+* Real-time AI responses
+* Interactive conversation
+* Built with Python
+* Uses Google Gemini API
+
+## Technologies Used
+
+* Python
+* Google Colab
+* Gemini API
+
+## How to Run
+
+1. Install dependencies
+2. Add your Gemini API key
+3. Run the notebook
+
+## Future Improvements
+
+* Chat memory
+* GUI interface
+* Voice assistant
+* PDF chatbot
